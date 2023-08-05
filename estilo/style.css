@@ -116,6 +116,7 @@ main {
 }
 
 main p {
+    min-width: 400px;
     margin: 15px 0px;
     text-align: justify;
     text-indent: 30px;
